@@ -5,7 +5,9 @@ https://discord.com/api/oauth2/authorize?client_id=725928722099732552&permission
 
 Commands:
 !dlb_commands
-!rank
-!solo
-!flex
+!rank <summoner name>
+!solo <summoner name>
+!flex <summoner name>
 !whatismyq (to find out if you are in winners or losers queue)
+
+An example would be: !solo TSM Bjergsen
